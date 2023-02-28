@@ -1,0 +1,9 @@
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\bin\Debug\Datos.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\bin\Debug\Datos.pdb
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\bin\Debug\Entidad.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\bin\Debug\Entidad.pdb
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\obj\Debug\Datos.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Datos\obj\Debug\Datos.pdb

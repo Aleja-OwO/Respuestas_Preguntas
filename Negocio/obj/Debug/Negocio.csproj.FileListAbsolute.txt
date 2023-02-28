@@ -1,0 +1,11 @@
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\bin\Debug\Datos.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\bin\Debug\Entidad.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\bin\Debug\Datos.pdb
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Luis Alejandro\source\repos\Preguntas_Respuestas\Negocio\obj\Debug\Negocio.pdb
